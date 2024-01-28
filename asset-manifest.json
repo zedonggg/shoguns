@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hnr24/static/css/main.7e7c24c5.css",
+    "main.js": "/hnr24/static/js/main.8190369c.js",
+    "static/js/787.a0d858cb.chunk.js": "/hnr24/static/js/787.a0d858cb.chunk.js",
+    "index.html": "/hnr24/index.html",
+    "main.7e7c24c5.css.map": "/hnr24/static/css/main.7e7c24c5.css.map",
+    "main.8190369c.js.map": "/hnr24/static/js/main.8190369c.js.map",
+    "787.a0d858cb.chunk.js.map": "/hnr24/static/js/787.a0d858cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7c24c5.css",
+    "static/js/main.8190369c.js"
+  ]
+}

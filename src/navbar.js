@@ -48,7 +48,7 @@ function NavBar() {
     <Navbar expand="lg" className="navbar1 py-4">
       <Container className='navbox'>
         
-        <Navbar.Brand className='brand' href="/hnr24"><i class="fa-solid fa-cart-shopping"></i>   SHOP<span style={{color: "#ff6d00"}}>NUS</span></Navbar.Brand>
+        <Navbar.Brand className='brand' href="/shoguns"><i class="fa-solid fa-cart-shopping"></i>   SHOP<span style={{color: "#ff6d00"}}>NUS</span></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className='justify-content-end'>
           <Nav className="ml-auto justify-content-end pl-4">

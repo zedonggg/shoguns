@@ -19,7 +19,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 const router = createBrowserRouter(
   [
     {
-      path: "/hnr24",
+      path: "/shoguns",
       element: <HomePage />,
       errorElement: <ErrorPage />
     },
